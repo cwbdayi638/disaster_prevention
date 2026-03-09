@@ -1,3 +1,14 @@
+---
+title: 土石流防災即時資訊地圖
+emoji: ⚠️
+colorFrom: gray
+colorTo: blue
+sdk: gradio
+sdk_version: "4.0"
+app_file: app.py
+pinned: false
+---
+
 # 🏔️ 土石流防災即時資訊地圖
 
 一個基於 Gradio + Folium 的互動式災害地點視覺化系統，可部署於 Hugging Face Spaces。
